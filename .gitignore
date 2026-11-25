@@ -1,0 +1,18 @@
+# 本项目自身使用 gitignore-kit 的模板
+*.py[cod]
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*~

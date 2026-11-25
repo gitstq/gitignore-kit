@@ -1,0 +1,7 @@
+*.gem
+.bundle/
+vendor/bundle
+coverage/
+.rvmrc
+.ruby-version
+.ruby-gemset

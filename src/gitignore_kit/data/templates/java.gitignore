@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.war
+hs_err_pid*
+.gradle/
+build/
+out/
+target/
+.mvn/wrapper/maven-wrapper.jar
